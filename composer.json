@@ -1,0 +1,17 @@
+{
+    "name": "jeannedarc/laravel-notosans-korean",
+    "description": "Noto Sans Korean Font Bundle for Laravel",
+    "keywords": ["Noto Sans Korean", "laravel", "korean", "noto", "font"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeanne d'Arc",
+            "email": "jeannedarc0330@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "minimum-stability": "stable"
+}
