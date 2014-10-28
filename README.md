@@ -10,7 +10,7 @@ Noto Sans폰트는 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2
 
 개발프로젝트의 composer.json 파일의 require안에 다음을 추가합니다.
 
-    "jeannedarc/laravel-notosans-korean": "dev-master"
+    "jeannedarc/laravel-notosans-korean": "1.0.*"
 
 이제 프로젝트 디렉토리에서 다음 명령어를 실행하여, 패키지를 설치합니다.
 
