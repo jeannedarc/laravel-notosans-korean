@@ -12,11 +12,12 @@ require가 이미 있다면 그안의 내용만 넣어주세요.
     "require": {
         "jeannedarc/laravel-notosans-korean": "dev-master"
     }
-(폰트 용량이 큰 관계로 오래걸릴 수 있습니다.)
 
 이제 다음 명령어로 패키지를 설치합니다.
 
     composer update
+
+(폰트 용량이 큰 관계로 오래걸릴 수 있습니다.)
 
 실제로 사용하기 위해선, 이폰트를 사용하고자하는 페이지의 헤더에 다음과 같이 넣으세요.
 
