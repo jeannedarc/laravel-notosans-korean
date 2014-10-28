@@ -1,7 +1,9 @@
 # Laravel용 Noto Sans Korean 폰트
 
 Google의 Noto Sans폰트에 대한 한국 폰트 웹폰트로 변환하여 Laravel용으로 패키지화 한것 입니다.
+
 Noto Sans폰트는 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)을 따르고 있습니다.
+
 폰트에대한 자세한 사항은 [Google Noto Fonts](https://www.google.com/get/noto/)에서 확인하세요.
 
 ## 설치법
