@@ -1,4 +1,4 @@
-# Noto Sans Korean Font Bundle for Laravel
+# Laravel용 Noto Sans Korean 폰트
 
 Google의 Noto Sans폰트에 대한 한국 폰트 웹폰트로 변환하여 Laravel용으로 패키지화 한것 입니다.
 Noto Sans폰트는 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)을 따르고 있습니다.
@@ -10,8 +10,9 @@ Noto Sans폰트는 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2
 require가 이미 있다면 그안의 내용만 넣어주세요.
 
     "require": {
-        "jeannedarc/laravel-notosans-korean": "~0.1"
+        "jeannedarc/laravel-notosans-korean": "dev-master"
     }
+(폰트 용량이 큰 관계로 오래걸릴 수 있습니다.)
 
 이제 다음 명령어로 패키지를 설치합니다.
 
