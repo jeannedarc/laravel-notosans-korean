@@ -37,3 +37,8 @@ Noto Sans폰트는 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2
     body{
       font-family: "Noto Sans Korean", sans-serif;
     }
+
+## 문의
+
+기타 문의 사항은 jeannedarc0330@gmail.com으로 해주세요.
+홈페이지는 제작하고 있습니다.
